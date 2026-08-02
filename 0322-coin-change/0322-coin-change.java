@@ -11,7 +11,6 @@ class Solution {
                 if(i-coin>=0){
                     if(min>x[i-coin]+1){
                         min = x[i-coin]+1;
-                         System.out.println(min);
                         
                     }
                 }
